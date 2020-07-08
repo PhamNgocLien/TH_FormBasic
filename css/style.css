@@ -1,0 +1,13 @@
+table {
+    border-collapse: collapse;
+    width: 700px;
+}
+table,th,td {
+    border: 1px solid #DDDDDD;
+}
+.row-c {
+    background-color: #DDDDDD;
+}
+th {
+    text-align: left;
+}
